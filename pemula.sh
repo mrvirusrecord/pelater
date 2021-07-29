@@ -9,7 +9,6 @@ yellow='\033[33;1m'
 
 clear
 sleep 1
-xdg-open https://youtube.com/channel/UCJcJ5ZARYowKSZzgPWSxpcQ
     echo
     echo $green
 figlet PELATER
