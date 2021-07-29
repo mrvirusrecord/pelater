@@ -9,7 +9,6 @@ yellow='\033[33;1m'
 
 clear
 sleep 1
-xdg-open https://youtube.com/channel/UCJcJ5ZARYowKSZzgPWSxpcQ
     echo
     echo $green
 figlet PELATER
@@ -19,8 +18,8 @@ echo $blue".     # script ini untuk pemula # "
 echo $blue".          semoga bermanfaat"
    echo
 sleep 1
-   echo $green"🎖️ AUTHOR : MR VIRUS SPM"
-   echo $green"🎖️ TEAM   : MAVIA TEKNOLOGI INDONESIA"
+   echo $green"🎖️ AUTHOR : PANGLIMA JATENG"
+   echo $green"🎖️ TEAM   : MAFIA TEKNOLOGI INDONESIA"
    echo $green"🎖️ IG     : mvs.x_x"
    echo $blue"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
    echo
